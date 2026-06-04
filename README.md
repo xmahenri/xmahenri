@@ -1,9 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Marcos%20Henrique&fontSize=40&fontColor=ffffff"/>
 
 <div align="center">
-
-# 🧑🏻‍💻 Marcos Henrique
-
+  
 ### `Full-Stack Developer` • `Software Engineer`
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" />
